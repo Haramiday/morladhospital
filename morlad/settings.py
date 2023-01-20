@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["morladhos.herokuapp.com"]
+ALLOWED_HOSTS = ["web-production-5bc5.up.railway.app"]
 
 
 # Application definition
